@@ -1,0 +1,9 @@
+Glad you to come here!
+And here how this code actions
+
+1. Put this "converter.sh" file to the folder that includes *.wav files that you want to change to mp3 file.
+
+2. Just run this "converter.sh"
+
+Finally, you would see "Outputs" folder in where the folder you made.
+
