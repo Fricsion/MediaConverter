@@ -3,7 +3,7 @@ And here how this code actions
 	
 	0. Requirements:
 		ffmpeg (latest version)
-		Platforms that are available Shell Script
+		Platforms that Shell Scripts are available
 	
 	1. Put this "converter.sh" file to the folder that includes *.wav files that you want to change to mp3 file.
 	
